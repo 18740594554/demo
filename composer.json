@@ -1,0 +1,15 @@
+{
+    "name": "liuguobo/demo",
+    "autoload": {
+        "psr-4": {
+            "Liuguobo\\Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "liuguobo",
+            "email": "1448018386@qq.com"
+        }
+    ],
+    "require": {}
+}
